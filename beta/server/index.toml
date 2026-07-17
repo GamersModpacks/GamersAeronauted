@@ -149,6 +149,11 @@ hash = "363419d6e92719fdfb256b2025004f7204415a309dcc27ea029b38e0ea28f18e"
 metafile = true
 
 [[files]]
+file = "mods/millenaire.pw.toml"
+hash = "80b4b28ac31880c4cdf4cd1c030ef6db0688211a95faa87cb7928b537eb284e2"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
 metafile = true

@@ -78,7 +78,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "c04a7fd20c464a96abd3da7432835b640eaa787fbd6a3942a6fd4764372f002b"
+hash = "c0a6ba29c9381529378e26c000924365981f8cbde16313f27dbb8c9851657423"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -361,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
+metafile = true
+
+[[files]]
+file = "mods/millenaire.pw.toml"
+hash = "80b4b28ac31880c4cdf4cd1c030ef6db0688211a95faa87cb7928b537eb284e2"
 metafile = true
 
 [[files]]
