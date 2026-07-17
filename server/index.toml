@@ -80,7 +80,7 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/nukateams-gun-lib.pw.toml"
+file = "mods/ntgl.pw.toml"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ file = "mods/playeranimator.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ritchies-projectile-library.pw.toml"
+file = "mods/rpl.pw.toml"
 metafile = true
 
 [[files]]
