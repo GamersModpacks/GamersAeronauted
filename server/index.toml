@@ -8,10 +8,6 @@ file = "mods/cbc-compact-mount.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cbcms.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cc-cbc-compact-mount.pw.toml"
 metafile = true
 
