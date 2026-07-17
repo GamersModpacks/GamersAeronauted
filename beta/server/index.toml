@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "72dd231209bbb984722c6cfb432312d440335b43b5521eecb4647d0550b1eb50"
+hash = "2e7a69aa3a93280e59d2c878887cf72d64e245f26548378ad962943bee15b3f9"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -31,11 +31,6 @@ metafile = true
 [[files]]
 file = "mods/cbc-compact-mount.pw.toml"
 hash = "414a58bba157ca4e565529c006a8637660644de1b2347f5452e1d7906b41c225"
-metafile = true
-
-[[files]]
-file = "mods/cbcms.pw.toml"
-hash = "aaeb76c2d217c365e6d8b3986d3ff67a2c785ba81d66649a485ad7c17a515f4d"
 metafile = true
 
 [[files]]
