@@ -4,10 +4,6 @@ hash-format = "sha256"
 file = "filesToRemove.txt"
 
 [[files]]
-file = "mods/battle-arts.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cbc-compact-mount.pw.toml"
 metafile = true
 
