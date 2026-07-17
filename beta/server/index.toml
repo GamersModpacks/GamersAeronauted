@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "43f6d7fb9c99f3146d7afa7da96a815d51c99fff80af51bdff995016f4f63ae6"
+hash = "777e91b272ed7a5b6635f332898d04b1fd8a11740bca675d671b40b035015a7e"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
