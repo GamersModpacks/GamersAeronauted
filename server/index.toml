@@ -1,11 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "filesToRemove.txt"
+
+[[files]]
+file = "mods/cbc-compact-mount.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cbcms.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/cc-cbc-compact-mount.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
