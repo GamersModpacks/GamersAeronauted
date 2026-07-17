@@ -80,6 +80,10 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/millenaire.pw.toml"
 metafile = true
 
