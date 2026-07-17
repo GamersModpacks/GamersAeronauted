@@ -78,7 +78,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "4e7f97195d546104ec61a75a92f83a8ece6dddcc24d5bb0932eac62e97c10b75"
+hash = "e551caad768f895f11c627329b4af59e69ff4c119402c00e55c0d69ae67eb244"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -376,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
