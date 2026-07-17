@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "68f1ec991fd78ff28372e0a98edf515b395c08cfabcb9c91c415a1022a09766f"
+hash = "22a443fc8492cd47f1013be6e10885a4677851ea5121f7868b4d824aa04bb2d9"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "e551caad768f895f11c627329b4af59e69ff4c119402c00e55c0d69ae67eb244"
+hash = "f171611600e383783bb21e7409d67f678cd7bfb8e053215f981fd9b33c313eb7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
