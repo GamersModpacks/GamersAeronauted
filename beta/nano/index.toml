@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "777e91b272ed7a5b6635f332898d04b1fd8a11740bca675d671b40b035015a7e"
+hash = "8a7174b4e61f46aa8fb31ad4a7426444c53b44b672a4a1accd5c8b1e926d0a37"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -70,11 +70,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "91fa2fc1c7bfa2c23aaa0dd2e3da5db5d797b8c4384d70ed18d4a9bdbbb61743"
+hash = "b43f717d14c56b590873748c63e1bd7e106582437d97287cab35cc62ba82d74d"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "db930d2b87834f50041d41f3f2c95e480546012658bda9eb9fd1278af8d45db1"
+hash = "d98d834c68ec9cd8c55b3a52e98b20290ec655858bf12c3c9c8ea81d684ee3ff"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -185,6 +185,11 @@ hash = "150a1451f06b26fbfc56cd51aa632a012a6059d0df62c2e7323e7c0aabd20fea"
 metafile = true
 
 [[files]]
+file = "mods/cbc-compact-mount.pw.toml"
+hash = "414a58bba157ca4e565529c006a8637660644de1b2347f5452e1d7906b41c225"
+metafile = true
+
+[[files]]
 file = "mods/cbcms.pw.toml"
 hash = "fdc901c2efab5ecd4fedf244903ea44d90a19ed0111a80a326a588911861479c"
 metafile = true
@@ -192,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/cc-cbc-compact-mount.pw.toml"
 hash = "8ef7e73c36ab933951bcb881678fbb46cf92a705931812cbf206c20f5a745727"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
 metafile = true
 
 [[files]]
@@ -407,11 +417,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
 metafile = true
 
 [[files]]

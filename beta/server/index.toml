@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "777e91b272ed7a5b6635f332898d04b1fd8a11740bca675d671b40b035015a7e"
+hash = "8a7174b4e61f46aa8fb31ad4a7426444c53b44b672a4a1accd5c8b1e926d0a37"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -29,6 +29,11 @@ hash = "150a1451f06b26fbfc56cd51aa632a012a6059d0df62c2e7323e7c0aabd20fea"
 metafile = true
 
 [[files]]
+file = "mods/cbc-compact-mount.pw.toml"
+hash = "414a58bba157ca4e565529c006a8637660644de1b2347f5452e1d7906b41c225"
+metafile = true
+
+[[files]]
 file = "mods/cbcms.pw.toml"
 hash = "fdc901c2efab5ecd4fedf244903ea44d90a19ed0111a80a326a588911861479c"
 metafile = true
@@ -36,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/cc-cbc-compact-mount.pw.toml"
 hash = "8ef7e73c36ab933951bcb881678fbb46cf92a705931812cbf206c20f5a745727"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
 metafile = true
 
 [[files]]
@@ -186,11 +196,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
 metafile = true
 
 [[files]]
