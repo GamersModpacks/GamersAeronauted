@@ -4,6 +4,10 @@ hash-format = "sha256"
 file = "filesToRemove.txt"
 
 [[files]]
+file = "mods/battle-arts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cbc-compact-mount.pw.toml"
 metafile = true
 
@@ -72,11 +76,35 @@ file = "mods/create.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/createcybernetics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fungal-infectionspore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
 metafile = true
 
 [[files]]
@@ -105,4 +133,20 @@ metafile = true
 
 [[files]]
 file = "mods/simulated-addition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waifucraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
 metafile = true

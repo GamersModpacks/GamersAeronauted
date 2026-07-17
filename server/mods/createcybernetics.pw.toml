@@ -1,0 +1,13 @@
+name = "Cybernetics"
+filename = "createcybernetics-0.4.8b-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9t7jysm4/versions/TW7wRFpv/createcybernetics-0.4.8b-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d250493a938e0c8e7018a54880c25d3342056fc834be332fc62dd2a6ab18a6aabfb12ad64a1cb38860a62dd3d86c21d54a31b75422a414632108aec5fdbbc708"
+
+[update]
+[update.modrinth]
+mod-id = "9t7jysm4"
+version = "TW7wRFpv"
