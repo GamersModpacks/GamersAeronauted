@@ -78,7 +78,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "7a544c4af5288241bd08590b19f67ed2e8f2addd83c78d7f87f1b9279631cfd9"
+hash = "f9cb433484d09ba2ce34b9cb56afc78edee1b447da3d19f806a861d3cdb4efc4"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -234,6 +234,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
 file = "mods/create-aero-radars.pw.toml"
 hash = "4abc8f3793ea18a02038b7587a09949480912f7231c2f696292dcbff78309ca9"
 metafile = true
@@ -386,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "5707b722541648df013644f3b4d50083c77965d536f219df9fac5026f6103777"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
