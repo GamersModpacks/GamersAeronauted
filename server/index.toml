@@ -1,2 +1,93 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/cbcms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cc-cbc-compact-mount.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cgs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aero-radars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-ender-transmission.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nukateams-gun-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simulated-addition.pw.toml"
+metafile = true
