@@ -22,7 +22,11 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2e7a69aa3a93280e59d2c878887cf72d64e245f26548378ad962943bee15b3f9"
+hash = "e2a40c0c4f6e6f2ffcf7ee8cb4855b48e584920f60260805097b8263a22c5826"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "f79a7f6d680a1f0d0948001d0f174ce607bba76d61563abb85fd8900991b651b"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -74,11 +78,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "2c321b852de802e9d3af5abb35bf2841bad46a8f78055c0055b74ea031f7cd9e"
+hash = "5273c80931ba8266f017aa71aed4d79931ca9ca3c83256a14d3f76c7a9f46366"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "a3bb964771d7cc598d9e42ae24b4c53d2351246fd67b481f774c020882b3e9b4"
+hash = "67695a285b9eeebf2073f01b5520585c77857341f0e26e2064e5fc6de2d4236d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
