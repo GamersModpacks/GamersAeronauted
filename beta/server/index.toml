@@ -19,11 +19,6 @@ hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
-file = "mods/battle-arts.pw.toml"
-hash = "9c91c08a0854532ba6847ef7896acc89f90eadc3efa30a414c1128994ba9bd61"
-metafile = true
-
-[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
 metafile = true

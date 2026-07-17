@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "f9cb433484d09ba2ce34b9cb56afc78edee1b447da3d19f806a861d3cdb4efc4"
+hash = "4e7f97195d546104ec61a75a92f83a8ece6dddcc24d5bb0932eac62e97c10b75"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -184,11 +184,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "641564c77667e6982de66518edf5488190267ccf58300836597d60cc7f693f67"
-metafile = true
-
-[[files]]
-file = "mods/battle-arts.pw.toml"
-hash = "9c91c08a0854532ba6847ef7896acc89f90eadc3efa30a414c1128994ba9bd61"
 metafile = true
 
 [[files]]
