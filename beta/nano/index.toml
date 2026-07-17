@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "40f1850d3c25c08b424805d9f823a83d1af6ecea36acb3c8d57d2994bbc9da8c"
+hash = "72dd231209bbb984722c6cfb432312d440335b43b5521eecb4647d0550b1eb50"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -70,11 +70,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "0ebec65dc5613cb29213a97a89c31551deff4b5f19ae7fa3b36677acf7e69ab7"
+hash = "5c4aa03b038367b4dc2e1f4231555eaa5b7855de8d49df82f470f4d3159affc3"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "b14da8646124fd96a4f1fb058039750724df16766e679360f88d9e12cabe03f5"
+hash = "949c58049051b328bcd2f5e61e669a783c33ec97b3352c381cbe9fbcce6ee221"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbcms.pw.toml"
-hash = "6370beceff253cea865189451a864fb0aa6d151d492ab52ddf236f79ecd26058"
+hash = "aaeb76c2d217c365e6d8b3986d3ff67a2c785ba81d66649a485ad7c17a515f4d"
 metafile = true
 
 [[files]]
