@@ -78,7 +78,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "c0a6ba29c9381529378e26c000924365981f8cbde16313f27dbb8c9851657423"
+hash = "591f4efd7f8f5deb20fd627502a0ef23892afcb6061bd0d332e7a07ba1f1c810"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -341,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce7446cecd03ba869abacb1d45fe315c8bdfc6959558e7f3d21c17c15bf076af"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "636d90c851ff6f3d8668140cec978a05b9078d1b8a0b85f300bb795ed0a55572"
 metafile = true
 
 [[files]]

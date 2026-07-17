@@ -144,6 +144,11 @@ hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "636d90c851ff6f3d8668140cec978a05b9078d1b8a0b85f300bb795ed0a55572"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "363419d6e92719fdfb256b2025004f7204415a309dcc27ea029b38e0ea28f18e"
 metafile = true
