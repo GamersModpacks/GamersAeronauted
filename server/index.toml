@@ -108,6 +108,10 @@ file = "mods/immersive-paintings.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 metafile = true
 
