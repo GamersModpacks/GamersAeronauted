@@ -1,0 +1,13 @@
+name = "Battle Arts"
+filename = "battle_arts-21.16.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dd6vT4jF/versions/bCYV4LXD/battle_arts-21.16.1.3.jar"
+hash-format = "sha512"
+hash = "5b857c5f9cce673e9152d4b3bdbdee433736e45573fe013fd39cf33187429a67a035d7ee21e73f74625d41d47a1767986425e8a6c10c6604efb271fb6c2fe493"
+
+[update]
+[update.modrinth]
+mod-id = "Dd6vT4jF"
+version = "bCYV4LXD"

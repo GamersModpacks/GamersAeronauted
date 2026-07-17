@@ -19,6 +19,11 @@ hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
+file = "mods/battle-arts.pw.toml"
+hash = "9c91c08a0854532ba6847ef7896acc89f90eadc3efa30a414c1128994ba9bd61"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
 metafile = true
@@ -124,8 +129,23 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createcybernetics.pw.toml"
+hash = "12adb61f36afb5e484ebbb03b0e71116621697b59d6ebde013d305c22eec69b0"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight.pw.toml"
+hash = "8f25f6d5023d533e0d70b0375c36c176445251f431a9c8ebd63cf7f63e4c31da"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -139,8 +159,23 @@ hash = "20eee73cffcd55bfe041b16bbc3adc64c38859bf928486bf1db1368b6dba2058"
 metafile = true
 
 [[files]]
+file = "mods/fungal-infectionspore.pw.toml"
+hash = "bb744f621497a5483ac3df5678443ac8cf057aa14ba7e5fcc8fd277ec9e6cb5d"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
 metafile = true
 
 [[files]]
@@ -214,6 +249,16 @@ hash = "b4c7f3dfcf6d214eeaed7e05e3bce8e4f1145529061d1fea86a7fc9797b3d4bf"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "5a5f28fbfd2574cf35d06c8be9d81ff02596fd19c39f2844ddc99b76812b3e40"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "29752a1045c52d76a648b15f77ff68ab57e3791d6c84816792a9f709e24812c6"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
@@ -221,4 +266,14 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
+file = "mods/waifucraft.pw.toml"
+hash = "e8bbe31e39a1ee568d8a91b8d20dbb1213e6ffff60161e2e6865eaa4cbf8a824"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "54d07601a6be738af7115e07b29d75de786b5ffdc98681a383d6c66f1bd6a6c9"
 metafile = true
