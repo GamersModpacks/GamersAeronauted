@@ -1,0 +1,13 @@
+name = "CC:CBC Compact Mount"
+filename = "cc_cbc_compact_mount-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f37ea65a61587d25feec984159bc80bd4f0ae6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8290921
+project-id = 1582570
