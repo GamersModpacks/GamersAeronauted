@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0339bb127b146a47f55334147e45720f6622b38d622600297c4270a7934ecde5"
+hash = "f43982c572c7222280bb01e74cb2adc81d42078a56e7f8670cf258f8f4245e1c"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -21,6 +21,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas.pw.toml"
+hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
 metafile = true
 
 [[files]]
