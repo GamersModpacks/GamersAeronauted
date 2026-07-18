@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c4c974c769dbd83b04b73d4e59403dfc151f5c9da58dfba450383e880a449009"
+hash = "b891c836f102f64408dd1f9c885ad3a5cb1202da9a9d6f98ad3b7e62b10c6beb"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "9993ad6b1c722d34353d2c6346356ba6d92ecf04e4b5d64d65c08e72ec9b8036"
+hash = "668be0e283e58dc3a39233b016987cdced03f64582185ef1944317159c00681a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -161,6 +161,14 @@ metafile = true
 [[files]]
 file = "config/puzzle.json"
 hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "63b8948c185f67636eff3a2d01c4fedf1d708f9129056159cffee42ee3605ad8"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "023a08323f0603818095b1427ff9b592e4a7653d910622e3f13d932f4e40d116"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
