@@ -17,28 +17,8 @@ file = "config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
-file = "config/assets/background.jpg"
-hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
-
-[[files]]
-file = "config/assets/icon.icns"
-hash = "4bcdc38c959754fb32d664bbce1b8f778c2300b37c4c8b6d5125b5b4f87bb40e"
-
-[[files]]
-file = "config/assets/icon16.png"
-hash = "d1259cbe7df1ab62c51fc8aaab2498f042eacfd48cc8dff38bbdf6cb97ca66bb"
-
-[[files]]
-file = "config/assets/icon32.png"
-hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
-
-[[files]]
-file = "config/assets/logo.png"
-hash = "fff41d0eb3ced20dfacb603b87af91705b5fb87d577acf1c2c380002da2c248c"
-
-[[files]]
 file = "config/bcc-common.toml"
-hash = "662057e7780670b8a958556f7ea4d5027ece84c90f09615ed7fba54690cfa031"
+hash = "a38f50998c2a2cf2039e452ceb61b29c1f82da804631059f2f5b9afa3a3bd3c0"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +58,7 @@ hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
-hash = "4d2c4bc9c36821ae16235f30ee9e130c7b3550f2722454e0b9501b8caf806938"
+hash = "fff41d0eb3ced20dfacb603b87af91705b5fb87d577acf1c2c380002da2c248c"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
@@ -98,7 +78,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "e10f13e5f546d10a76302394e5e4e46a9e9ed17b511004a30ebac386233d5182"
+hash = "abfefb51b9f650c574d900d6258e36b90eda801dea5445e2c3d2d9a0fda8537a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
