@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "93aa8b4bc42f1fe9089fb4c995d5bdcd337e7f3cfe310c51c73e757f4383f37f"
+hash = "f274f1ef85f4d447e21bf21d83505878d96415db122fcff9b66813c28e5247f2"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "82cc3351e7b9d235a6b9cbd27d9024196a9c6947c26243370bd88e0ef7ea427d"
+hash = "08a1f423064e84c5e1584d88f4828031ec3efd2a9d8acb9a2b89c82ae5b91383"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -276,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
 metafile = true
 
 [[files]]
