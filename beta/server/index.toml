@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0663e32d8895ce2c7ff55c4dc4db5e55a37a037867920e54dbfe4380b32bf22c"
+hash = "35e89a80e1888f61433c64a65e0dae847e077e2c9f044fff338056f217136a7e"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -344,6 +344,11 @@ hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
+metafile = true
+
+[[files]]
 file = "mods/mystical-oak-tree.pw.toml"
 hash = "5ee268552c9337e720141a9d3fa03d260d1cc575b0359adbb1a0da566cc605e9"
 metafile = true
@@ -461,4 +466,9 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
