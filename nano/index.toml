@@ -2,3 +2,9 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/create-client.toml"
+
+[[files]]
+file = "config/quark-common.toml"
+
+[[files]]
+file = "config/supplementaries-client.toml"
