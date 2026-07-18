@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "35e89a80e1888f61433c64a65e0dae847e077e2c9f044fff338056f217136a7e"
+hash = "175c80bd594c84defcf85dd4d918c06926898005407459fff079bfbef113f6f9"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -461,11 +461,6 @@ metafile = true
 [[files]]
 file = "mods/waifucraft.pw.toml"
 hash = "e8bbe31e39a1ee568d8a91b8d20dbb1213e6ffff60161e2e6865eaa4cbf8a824"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]

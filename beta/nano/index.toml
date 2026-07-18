@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "35e89a80e1888f61433c64a65e0dae847e077e2c9f044fff338056f217136a7e"
+hash = "175c80bd594c84defcf85dd4d918c06926898005407459fff079bfbef113f6f9"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +78,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "71bdec0e91358f02be7af540d1b025f369ed8dbb61186aeece40033307f88a2c"
+hash = "a3d9b3d2f0e43373d038a4b6368e01ec515a01f15defc9a0f49fca95c0586bca"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -696,11 +696,6 @@ metafile = true
 [[files]]
 file = "mods/waifucraft.pw.toml"
 hash = "e8bbe31e39a1ee568d8a91b8d20dbb1213e6ffff60161e2e6865eaa4cbf8a824"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
