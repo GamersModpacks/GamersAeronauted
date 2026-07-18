@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "175c80bd594c84defcf85dd4d918c06926898005407459fff079bfbef113f6f9"
+hash = "7bf2342d4320eb901b0063f0607660dc64ae5da865d78d95599a3f243bcf4fb7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -131,11 +131,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
-metafile = true
-
-[[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-hash = "9a4698c7a6d450e860bea82463dbea10918e4990ea16a54a11921c6c9e9ad1d6"
 metafile = true
 
 [[files]]
