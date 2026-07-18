@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4b55c4db98c8ccca31e9b254a4d3f973a449cb43c1bed909fad5706937d39457"
+hash = "93aa8b4bc42f1fe9089fb4c995d5bdcd337e7f3cfe310c51c73e757f4383f37f"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "0199bbb2e3ae02655dd962f9a1a5d6837e84d74485d651db13eb3a9dfc392d04"
+hash = "82cc3351e7b9d235a6b9cbd27d9024196a9c6947c26243370bd88e0ef7ea427d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -165,6 +165,10 @@ hash = "63b8948c185f67636eff3a2d01c4fedf1d708f9129056159cffee42ee3605ad8"
 [[files]]
 file = "config/supplementaries-client.toml"
 hash = "023a08323f0603818095b1427ff9b592e4a7653d910622e3f13d932f4e40d116"
+
+[[files]]
+file = "config/unionlib-client.toml"
+hash = "83a3c7736da7cdb36544927fba08960266a5d49d0f07c753f05c0015b7437ffe"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
