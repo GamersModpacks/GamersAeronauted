@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6ea33f6cbbbcdf70ebfef19cc134b71dbec6568595dea69ffd537d1ad513e128"
+hash = "662057e7780670b8a958556f7ea4d5027ece84c90f09615ed7fba54690cfa031"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
