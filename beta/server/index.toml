@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "adb9f1432489c289a3635710a60f88b40a4247136dde426eb6c5f98d400beb27"
+hash = "2cfa57295cca2650e69c70adcb1a7c300bfa5c9736700207c424e18f06d386ea"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -481,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.pw.toml"
+hash = "9b2c9d9df7f854001468ddd68fcebe7a09ce13a74359436ac45c5aae8daf0fae"
 metafile = true
 
 [[files]]
