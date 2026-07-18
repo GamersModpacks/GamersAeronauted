@@ -1,7 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+
+[[files]]
 file = "config/create-client.toml"
+
+[[files]]
+file = "config/fancymenu/assets/background.jpg"
+
+[[files]]
+file = "config/fancymenu/assets/icon.icns"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+
+[[files]]
+file = "config/fancymenu/options.txt"
 
 [[files]]
 file = "config/quark-common.toml"
