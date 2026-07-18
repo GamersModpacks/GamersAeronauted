@@ -29,3 +29,6 @@ file = "config/quark-common.toml"
 
 [[files]]
 file = "config/supplementaries-client.toml"
+
+[[files]]
+file = "config/unionlib-client.toml"
