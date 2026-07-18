@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "5da4108daef968d446a9551381d6e6646b260745f04e72b6a66e7678a4544b21"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -18,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "dc7d899b55561e2e13a2aeff1b5c55387fb1159f12e855c9d0fef70662f74ea3"
+hash = "a1c8b5111471cff7bbabd3c779618a7ab1da9a8d7c37978ea389c5a96cef4b98"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "b59e70ef44fd5c73321d523c308b7feaeecbac281e15a84667201847dc6cc6a5"
+hash = "e7027cd4de94e620ce7d5c277d7ad14fb793598dd8dd8a84bda27bc4d08ea7cc"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
