@@ -63,6 +63,10 @@ file = "mods/coroutil.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-aero-radars.pw.toml"
 metafile = true
 
