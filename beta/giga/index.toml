@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a1c8b5111471cff7bbabd3c779618a7ab1da9a8d7c37978ea389c5a96cef4b98"
+hash = "dccce277c6c348b4f74c99da433397a42b038023794041ea18223223be66eb90"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "e7027cd4de94e620ce7d5c277d7ad14fb793598dd8dd8a84bda27bc4d08ea7cc"
+hash = "20ba29c0a50c2258ed933a603056cda491041103d1ac2c1abf655b58bb6ac773"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -527,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "1b84f2dda2014252ffb0b792f4850fa3b3b396a49f39cac7b11c8cb88bf1a1e4"
 metafile = true
 
 [[files]]

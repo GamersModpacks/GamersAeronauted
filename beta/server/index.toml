@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a1c8b5111471cff7bbabd3c779618a7ab1da9a8d7c37978ea389c5a96cef4b98"
+hash = "dccce277c6c348b4f74c99da433397a42b038023794041ea18223223be66eb90"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -286,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "51efd91733a69b031ff8533683e5a94b9c25a8e270e40e6ce9f4b03121e03450"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "1b84f2dda2014252ffb0b792f4850fa3b3b396a49f39cac7b11c8cb88bf1a1e4"
 metafile = true
 
 [[files]]
