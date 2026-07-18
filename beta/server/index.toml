@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "96dd1d20f34aedff91ea0b6a74da4d83919430a3f7db58d519362aec920a097f"
+hash = "4b55c4db98c8ccca31e9b254a4d3f973a449cb43c1bed909fad5706937d39457"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/unionlib.pw.toml"
-hash = "0d92ddac7f2a71ec90e2ecb673bf323ead8b1224ac2e1a69d837ed25ed858bcd"
+hash = "381686059e3d448c157f3fc7e0ed2993b74ad2e1eea81a1c2a63baf158234982"
 metafile = true
 
 [[files]]
