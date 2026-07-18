@@ -21,8 +21,28 @@ file = "config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
+file = "config/assets/background.jpg"
+hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
+
+[[files]]
+file = "config/assets/icon.icns"
+hash = "4bcdc38c959754fb32d664bbce1b8f778c2300b37c4c8b6d5125b5b4f87bb40e"
+
+[[files]]
+file = "config/assets/icon16.png"
+hash = "d1259cbe7df1ab62c51fc8aaab2498f042eacfd48cc8dff38bbdf6cb97ca66bb"
+
+[[files]]
+file = "config/assets/icon32.png"
+hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
+
+[[files]]
+file = "config/assets/logo.png"
+hash = "4d2c4bc9c36821ae16235f30ee9e130c7b3550f2722454e0b9501b8caf806938"
+
+[[files]]
 file = "config/bcc-common.toml"
-hash = "b891c836f102f64408dd1f9c885ad3a5cb1202da9a9d6f98ad3b7e62b10c6beb"
+hash = "6ea33f6cbbbcdf70ebfef19cc134b71dbec6568595dea69ffd537d1ad513e128"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +102,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "668be0e283e58dc3a39233b016987cdced03f64582185ef1944317159c00681a"
+hash = "cfbf5065d821992274c6fe15fd1527f39d2b37f0976424d26982d351dae2f170"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -106,7 +126,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "595c678866a47552341eb7410e9b929c13b84a4bd6f7e9ee513ad4efff4e3e71"
+hash = "473209ed59d9dde14900c6ad8a098c19a960ad00f3e1edf318210f2d0617ff5f"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -560,6 +580,11 @@ hash = "9d60cefdf3351e14d55928e572d4102c87b0e5792198884acaeb6a6ff66abd68"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "139243c0b47a2d89147289b8d9ef91178c1c2511f3060e00e3699d0e3adb226b"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-furniture.pw.toml"
 hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
 metafile = true
@@ -612,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-oak-tree.pw.toml"
 hash = "5ee268552c9337e720141a9d3fa03d260d1cc575b0359adbb1a0da566cc605e9"
+metafile = true
+
+[[files]]
+file = "mods/mythic-upgrades.pw.toml"
+hash = "d5ad7369690b9ad172681b13ad1fe65b1ed30001d15ab019d5e47b6822b2f216"
 metafile = true
 
 [[files]]
@@ -752,6 +782,11 @@ metafile = true
 [[files]]
 file = "mods/waifucraft.pw.toml"
 hash = "e8bbe31e39a1ee568d8a91b8d20dbb1213e6ffff60161e2e6865eaa4cbf8a824"
+metafile = true
+
+[[files]]
+file = "mods/weeping-angels.pw.toml"
+hash = "ad47d4b9aefebb84201e73b0af412dd6c952fdf8fe963ea90d649f7e9c518b8f"
 metafile = true
 
 [[files]]

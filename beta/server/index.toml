@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b891c836f102f64408dd1f9c885ad3a5cb1202da9a9d6f98ad3b7e62b10c6beb"
+hash = "6ea33f6cbbbcdf70ebfef19cc134b71dbec6568595dea69ffd537d1ad513e128"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -309,6 +309,11 @@ hash = "9d60cefdf3351e14d55928e572d4102c87b0e5792198884acaeb6a6ff66abd68"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "139243c0b47a2d89147289b8d9ef91178c1c2511f3060e00e3699d0e3adb226b"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-furniture.pw.toml"
 hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
 metafile = true
@@ -346,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-oak-tree.pw.toml"
 hash = "5ee268552c9337e720141a9d3fa03d260d1cc575b0359adbb1a0da566cc605e9"
+metafile = true
+
+[[files]]
+file = "mods/mythic-upgrades.pw.toml"
+hash = "d5ad7369690b9ad172681b13ad1fe65b1ed30001d15ab019d5e47b6822b2f216"
 metafile = true
 
 [[files]]
@@ -456,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/waifucraft.pw.toml"
 hash = "e8bbe31e39a1ee568d8a91b8d20dbb1213e6ffff60161e2e6865eaa4cbf8a824"
+metafile = true
+
+[[files]]
+file = "mods/weeping-angels.pw.toml"
+hash = "ad47d4b9aefebb84201e73b0af412dd6c952fdf8fe963ea90d649f7e9c518b8f"
 metafile = true
 
 [[files]]
