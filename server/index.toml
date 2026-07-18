@@ -199,6 +199,10 @@ file = "mods/integrated-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 metafile = true
 
