@@ -83,10 +83,6 @@ file = "mods/create-big-cannons.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 metafile = true
 
