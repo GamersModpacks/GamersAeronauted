@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "51453c70115c0be0d43fda8bf48d4ce49e6ceb6ea220ee13dfbded6acd4e2402"
+hash = "dc7d899b55561e2e13a2aeff1b5c55387fb1159f12e855c9d0fef70662f74ea3"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -286,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "51efd91733a69b031ff8533683e5a94b9c25a8e270e40e6ce9f4b03121e03450"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "76f6ec0d8429c4e25430c356563bc3d51b6baf6fc500469f5ec75eb2ae7039a1"
 metafile = true
 
 [[files]]
