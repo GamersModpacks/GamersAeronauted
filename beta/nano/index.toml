@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f43982c572c7222280bb01e74cb2adc81d42078a56e7f8670cf258f8f4245e1c"
+hash = "adb9f1432489c289a3635710a60f88b40a4247136dde426eb6c5f98d400beb27"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "3a163bed0b80e520b359a3c5320a2c907e0c9b911054b389ad866db60a4240cd"
+hash = "07b0a5def34f8be2ae25d61895a1580f286401adacac3c2ea533f561f9244b1f"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -278,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
