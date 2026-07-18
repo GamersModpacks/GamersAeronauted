@@ -1,7 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+
+[[files]]
 file = "filesToRemove.txt"
+
+[[files]]
+file = "mods/aeronautics-winds-and-weather.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/another-plushies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/azimuth-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/big-lost-city.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/cbc-compact-mount.pw.toml"
@@ -17,6 +48,10 @@ metafile = true
 
 [[files]]
 file = "mods/cgs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -44,7 +79,15 @@ file = "mods/create-aeroworks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
 metafile = true
 
 [[files]]
@@ -68,7 +111,31 @@ file = "mods/create-ender-transmission.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-prismatic-shine.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-radars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-wrapped.pw.toml"
 metafile = true
 
 [[files]]
@@ -77,6 +144,10 @@ metafile = true
 
 [[files]]
 file = "mods/createcybernetics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
 metafile = true
 
 [[files]]
@@ -104,7 +175,35 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iam-music-player-renewed.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -120,7 +219,27 @@ file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/millenaire.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
@@ -128,7 +247,27 @@ file = "mods/ntgl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/otyacraft-engine-renewed.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/realm-rpg-fallen-adventurers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -144,11 +283,19 @@ file = "mods/simulated-addition.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
+file = "mods/strut-your-stuff.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-core.pw.toml"
+file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
@@ -156,5 +303,5 @@ file = "mods/waifucraft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
+file = "mods/what-are-they-up-to.pw.toml"
 metafile = true
