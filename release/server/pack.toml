@@ -1,0 +1,16 @@
+name = "GamersAeronauted"
+author = "Gamers"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d0228ab9c17d7541ea418d52fd8d88e083e02fef68ed525e62f2e8eafdec9041"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.238"
+
+[options]
+no-internal-hashes = true
