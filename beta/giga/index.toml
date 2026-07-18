@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1a98be952bca725cbcd1637592601fbe31b485c70eef4056e99b5d724cdd60a7"
+hash = "0663e32d8895ce2c7ff55c4dc4db5e55a37a037867920e54dbfe4380b32bf22c"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "4cb2f56bb85f3f424b78975d2cbf46e44d3ef149603f6f37faa9925699c3edcc"
+hash = "172fd9adb111ae9e23b6eb086f21a5a0ca84e324c00a086f06514e6222ae171f"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -179,11 +179,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
-metafile = true
-
-[[files]]
-file = "mods/another-plushies.pw.toml"
-hash = "5a10ee1219e08d42e23f0774a5c4439295e7a11cd419d7242a706a2e236f31d0"
 metafile = true
 
 [[files]]
