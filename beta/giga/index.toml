@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a38f50998c2a2cf2039e452ceb61b29c1f82da804631059f2f5b9afa3a3bd3c0"
+hash = "51453c70115c0be0d43fda8bf48d4ce49e6ceb6ea220ee13dfbded6acd4e2402"
 
 [[files]]
 file = "config/create-client.toml"
@@ -46,7 +46,7 @@ hash = "3a76a170c111420cffc64fc1f6b8aa6627b8ec6eb5e8a474b9ac241872d865d2"
 
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
-hash = "e5565df877c97de45c4e0f12236da56c0dd274e36a490e2598e4a8b822a68a50"
+hash = "733dda7d6fa7062e3476d1179190d2ca81ee09f2888651a196583fc09fc291df"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -54,15 +54,15 @@ hash = "4bcdc38c959754fb32d664bbce1b8f778c2300b37c4c8b6d5125b5b4f87bb40e"
 
 [[files]]
 file = "config/fancymenu/assets/icon16.png"
-hash = "d1259cbe7df1ab62c51fc8aaab2498f042eacfd48cc8dff38bbdf6cb97ca66bb"
+hash = "9f0fa295a3802e34e84fe4ea767bada4ef4ff293dbf0d54644fd4c843d56c096"
 
 [[files]]
 file = "config/fancymenu/assets/icon32.png"
-hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
+hash = "ca49f11c750548f6761e5dbd78e233000bfd8e81fc2ce5730ade41c798f6f5ea"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
-hash = "fff41d0eb3ced20dfacb603b87af91705b5fb87d577acf1c2c380002da2c248c"
+hash = "394f96862fff28777a8d763b93d89698fe0dcb0b390cfb8d1d099baa43195a92"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "abfefb51b9f650c574d900d6258e36b90eda801dea5445e2c3d2d9a0fda8537a"
+hash = "4c38ef6536e0fc8876fadf07e851b84152a258fc45d11af2daec80168305d49b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
