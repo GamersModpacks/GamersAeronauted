@@ -215,6 +215,10 @@ file = "mods/lets-do-beachparty.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-furniture.pw.toml"
 metafile = true
 
@@ -236,6 +240,10 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mythic-upgrades.pw.toml"
 metafile = true
 
 [[files]]
@@ -296,6 +304,10 @@ metafile = true
 
 [[files]]
 file = "mods/waifucraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/weeping-angels.pw.toml"
 metafile = true
 
 [[files]]
