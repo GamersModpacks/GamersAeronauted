@@ -319,6 +319,10 @@ file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/unionlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/waifucraft.pw.toml"
 metafile = true
 
