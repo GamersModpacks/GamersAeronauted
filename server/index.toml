@@ -235,6 +235,10 @@ file = "mods/millenaire.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mystical-oak-tree.pw.toml"
 metafile = true
 
@@ -300,4 +304,8 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
 metafile = true
