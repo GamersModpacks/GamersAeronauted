@@ -1,0 +1,8 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+metafile = true
