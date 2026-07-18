@@ -11,10 +11,6 @@ file = "mods/aeronautics-winds-and-weather.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/another-plushies.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
