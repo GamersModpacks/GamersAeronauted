@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1f57f3a6477b1a9b18aebc255f8c94d95816136b3eed36803cce1b1482bf7448"
+hash = "3bac1cd563073c583f4278f9f22e8e670b269a06aaa70e479acda18ce95c4330"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "15108cd90dfb481bb4f6b44597e36aa342159f820c3e14fafbce0aaf08f090fa"
+hash = "ea3204363df44c1dcf5026f162de84bc5ddfd8b8dd7ae4a79e48ed80d1b799bc"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -171,6 +171,10 @@ file = "config/supplementaries-client.toml"
 hash = "023a08323f0603818095b1427ff9b592e4a7653d910622e3f13d932f4e40d116"
 
 [[files]]
+file = "config/unionlib-client.toml"
+hash = "83a3c7736da7cdb36544927fba08960266a5d49d0f07c753f05c0015b7437ffe"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "a04a536ab86b840d9fca354674e1898857e8387f6d7479f9037fd566b6d6779c"
 
@@ -187,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas.pw.toml"
+hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
 metafile = true
 
 [[files]]
@@ -282,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
@@ -767,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.pw.toml"
+hash = "381686059e3d448c157f3fc7e0ed2993b74ad2e1eea81a1c2a63baf158234982"
 metafile = true
 
 [[files]]
