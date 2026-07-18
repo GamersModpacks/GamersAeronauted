@@ -303,9 +303,5 @@ file = "mods/waifucraft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/zeta.pw.toml"
 metafile = true
