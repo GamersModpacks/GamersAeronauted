@@ -166,6 +166,10 @@ file = "mods/createcybernetics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 metafile = true
 
