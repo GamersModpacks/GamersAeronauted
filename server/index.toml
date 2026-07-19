@@ -14,7 +14,15 @@ file = "mods/aeronautics-winds-and-weather.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/antiqueatlas.pw.toml"
 metafile = true
 
 [[files]]
@@ -58,11 +66,19 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corail-tompstone.pw.toml"
 metafile = true
 
 [[files]]
