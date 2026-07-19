@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9f3e1a18dfcac58bbd4d926f372573e4a2a32101234b5fd62638440f7673f729"
+hash = "44ad33e7304bf3f16cdfe34251f22732b305fed60e8752c1be0c0189afab153f"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "bef666879b328178f9c9fa5ab2d5caf62015f4bfe2e9c4cb6b516e94cfb6b0ef"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "21d86bbfb9cc9bc024af60dfa4370849b5653ca04091c835a2e52a24039754b7"
+hash = "92ca4306f4756d5eaaac2f703531f0ddfb3fc6e940d403793aa5929c871a8831"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -685,11 +685,6 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine-renewed.pw.toml"
 hash = "9209051b1b627e44262d1519d60410cb34f73a84aaa0461cec31477c553dc804"
-metafile = true
-
-[[files]]
-file = "mods/pb-jelly.pw.toml"
-hash = "13699e682986905de709e494623e5a1324b140ce1015468fd99b8f3b3b8a1188"
 metafile = true
 
 [[files]]
