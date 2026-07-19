@@ -4,6 +4,9 @@ hash-format = "sha256"
 file = "config/bcc-common.toml"
 
 [[files]]
+file = "config/spore-startup.toml"
+
+[[files]]
 file = "filesToRemove.txt"
 
 [[files]]
@@ -59,11 +62,11 @@ file = "mods/copycats.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
+file = "mods/corail-tombstone.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
+file = "mods/coroutil.pw.toml"
 metafile = true
 
 [[files]]
