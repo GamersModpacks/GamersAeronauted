@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "24e0c91976079176cef7ac8929ecce0dea2c46a607b02e2792073ec23c17e8d8"
+hash = "995969ddf792a61b56d674c0f1a5b9fae2cce8377d6d7ffad3d6e75bd72cf60d"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "bef666879b328178f9c9fa5ab2d5caf62015f4bfe2e9c4cb6b516e94cfb6b0ef"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "66627da16a3702063dc7e52092c303de9ad3942dadd4ae1810499819a75ddd35"
+hash = "f50c3f8da9d270ffb0eb78d51cf41ba534baaa6c7df6f9dbb8cda8ff12db9626"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -690,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine-renewed.pw.toml"
 hash = "9209051b1b627e44262d1519d60410cb34f73a84aaa0461cec31477c553dc804"
+metafile = true
+
+[[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "801d9b43b7fb0eec0a1a7205d2a12a139cdb7ae05f67fba8c0602fdb64aa1e02"
 metafile = true
 
 [[files]]
