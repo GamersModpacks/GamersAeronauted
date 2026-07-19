@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "36dfb180544a48194e81d25106ac0b324a20fa865626607191ad66601d107c5f"
+hash = "d5159e12b6e3b87d0901becd6f3488f054b5753f8bfecb2bb5f8825c7651ee9d"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3a890887dc978c2831963814f0e245a133be02fee467d03b30f9b0d79672a8a8"
+
+[[files]]
+file = "config/spore-startup.toml"
+hash = "d573e54c4d3512421ee7ee824b0921770dfea1f8235c590289b07ab00d70a05b"
 
 [[files]]
 file = "mods/aeronautics-winds-and-weather.pw.toml"
@@ -104,13 +108,13 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+file = "mods/corail-tombstone.pw.toml"
+hash = "62b9fca367396bb95e8b0920bc270e8acb07424b0066bffe91aa29a954af2ead"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -360,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
+hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]

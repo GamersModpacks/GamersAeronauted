@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "GamersAeronauted"
 	#The version of the modpack
-	modpackVersion = "dev-44"
+	modpackVersion = "dev-45"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
