@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4737f1a22a2e2739be488289c22d721d46aa5fba945fb7ac5dca7f82f7508ce1"
+hash = "9f3e1a18dfcac58bbd4d926f372573e4a2a32101234b5fd62638440f7673f729"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -109,12 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "62b9fca367396bb95e8b0920bc270e8acb07424b0066bffe91aa29a954af2ead"
-metafile = true
-
-[[files]]
-file = "mods/corail-tompstone.pw.toml"
-hash = "0029220ff7a7a32e3cfe449e3eee42521f2e6ab5ad83fe8de8d88e3b41f3d6c8"
+hash = "dbc9eb126d2118694464005ab12a0c2c496f309b8ece5cb1c29ad40da948214a"
 metafile = true
 
 [[files]]
@@ -224,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+hash = "b266f270106dde60b5bbe030db8199f9f0d4f4b83b671d64c7cc495e2a28b667"
 metafile = true
 
 [[files]]
