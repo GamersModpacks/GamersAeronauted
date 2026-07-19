@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f274f1ef85f4d447e21bf21d83505878d96415db122fcff9b66813c28e5247f2"
+hash = "36dfb180544a48194e81d25106ac0b324a20fa865626607191ad66601d107c5f"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "178762f0fec789283cf339edf95ade55060af27ff8fa9595ea3b76c4ba032a75"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "08a1f423064e84c5e1584d88f4828031ec3efd2a9d8acb9a2b89c82ae5b91383"
+hash = "5cd652007afcc2c848aac1c400a4d823aed226e2e448096b7c3d1f2739061d2d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -631,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
+metafile = true
+
+[[files]]
+file = "mods/modpack-helper.pw.toml"
+hash = "4ff46798763681d0e3ad62dd398d9fbd5c95bf89f5934e1d9639ae2c5d7ead7e"
 metafile = true
 
 [[files]]
