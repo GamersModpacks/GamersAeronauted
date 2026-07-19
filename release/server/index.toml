@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f2b4a4937c5ea2a4a385698fad20921065bc067dfb5edbe7746547afd5739be6"
+hash = "04e6a1819ce0366746a96abe0d4c52da317173f8a2dea39f74e2c7c53fe146a5"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -11,11 +11,6 @@ hash = "3a890887dc978c2831963814f0e245a133be02fee467d03b30f9b0d79672a8a8"
 [[files]]
 file = "config/spore-startup.toml"
 hash = "d573e54c4d3512421ee7ee824b0921770dfea1f8235c590289b07ab00d70a05b"
-
-[[files]]
-file = "mods/aeronautics-winds-and-weather.pw.toml"
-hash = "9172958670e378bb4f9693b21a5ec2807f229a5ff9c9ba58d667ce0f6e4da5a7"
-metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -30,6 +25,11 @@ metafile = true
 [[files]]
 file = "mods/antique-atlas.pw.toml"
 hash = "245e9f02f2a4dd4ff5f76b3f8a5b67dc322795de2a4e81e7a76b51744514acef"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
@@ -65,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "4b200d7009a78ce1d782d0b20585fcde46e6791bf23edf22a799a60729e924fd"
+metafile = true
+
+[[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "5dd4552f1e29c6db54ea43a7c56e298de7f8e467bd5a61a211f9c3362b5528b2"
 metafile = true
 
 [[files]]
@@ -410,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine-renewed.pw.toml"
 hash = "9209051b1b627e44262d1519d60410cb34f73a84aaa0461cec31477c553dc804"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
 metafile = true
 
 [[files]]
