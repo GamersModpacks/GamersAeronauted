@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b336ca54d616591c4283f32416cfaef66f945d42856050795dc5b07164b1a69c"
+hash = "7d0c3e69b640bd7c0ddb78150880c65a402349bf0a1097d24dfbae13a21bf907"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -415,11 +415,6 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine-renewed.pw.toml"
 hash = "9209051b1b627e44262d1519d60410cb34f73a84aaa0461cec31477c553dc804"
-metafile = true
-
-[[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "801d9b43b7fb0eec0a1a7205d2a12a139cdb7ae05f67fba8c0602fdb64aa1e02"
 metafile = true
 
 [[files]]
