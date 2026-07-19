@@ -1,0 +1,8 @@
+name = "modpack-helper"
+filename = "modpack-helper.jar"
+side = "both"
+
+[download]
+url = "https://gamers.denchenko.com/GamersAeronauted/files/modpack-helper.jar"
+hash-format = "sha256"
+hash = "e6522e96701ebe64370ba27d2871aeac9b614dd9881fec046a220414a2062ff0"

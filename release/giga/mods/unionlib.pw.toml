@@ -1,13 +1,8 @@
-name = "UnionLib"
+name = "unionlib"
 filename = "UnionLib-1.21.1-12.0.18-NeoForge-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "12e93a3df3383a67a4df7101beb4cc70ff287960"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6813511
-project-id = 367806
+url = "https://cdn.denchenko.com/Aeronauted/mods/UnionLib-1.21.1-12.0.18-NeoForge-all.jar"
+hash-format = "sha256"
+hash = "c17d45e053844b1a5f6fa847f2658c0476a0770d476d3ffd3808ed877f8b6a96"

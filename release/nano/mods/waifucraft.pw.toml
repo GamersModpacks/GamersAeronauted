@@ -1,13 +1,8 @@
-name = "Waifucraft"
+name = "waifucraft"
 filename = "waifucraft-3.0.3-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6f4abc6c62eb73017a0dedfd9cdfc6c7a2009c72"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8396087
-project-id = 618506
+url = "https://cdn.denchenko.com/Aeronauted/mods/waifucraft-3.0.3-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "3a391f2eb1123181a64de85982ba084facafe7ea8263940091a5522a239ca8b9"
