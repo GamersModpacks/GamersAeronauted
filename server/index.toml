@@ -10,10 +10,6 @@ file = "config/spore-startup.toml"
 file = "filesToRemove.txt"
 
 [[files]]
-file = "mods/aeronautics-winds-and-weather.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/alltheleaks.pw.toml"
 metafile = true
 
@@ -22,7 +18,7 @@ file = "mods/antique-atlas.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/antiqueatlas.pw.toml"
+file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
@@ -43,6 +39,10 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -75,10 +75,6 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/corail-tompstone.pw.toml"
 metafile = true
 
 [[files]]
@@ -298,7 +294,7 @@ file = "mods/otyacraft-engine-renewed.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/pb-jelly.pw.toml"
+file = "mods/ping-wheel.pw.toml"
 metafile = true
 
 [[files]]
@@ -343,10 +339,6 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tacz-npcs.pw.toml"
 metafile = true
 
 [[files]]
