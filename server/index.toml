@@ -251,6 +251,10 @@ file = "mods/millenaire.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modpack-helper.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 metafile = true
 
