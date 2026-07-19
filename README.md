@@ -1,39 +1,38 @@
-# PackFrameworker
+# 🛩️ GamersAeronauted
 
-PackFrameworker is a script that automates building and updating Minecraft modpacks
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen.svg)](https://www.minecraft.net/)
+[![Modloader](https://img.shields.io/badge/NeoForge-21.1.240-orange.svg)](https://neoforged.net/)
+[![Packwiz](https://img.shields.io/badge/Powered_by-Packwiz-blue.svg)](https://github.com/packwiz/packwiz)
 
-- Prompting for configuration (Minecraft version and modloader) on the first run
-- Building modpack variants (giga, nano, server) by merging files from multiple directories
-- Updating or cloning the PackFramework repository
-- Copying the beta build to a release folder
-- Quietly checking for required dependencies (Git and Packwiz) in your system's PATH
-- Providing a simple, menu-based interface for managing builds and configuration
+**GamersAeronauted** is a Minecraft 1.21.1 NeoForge modpack built around **Create Aeronautics**, physics-driven airships, heavy industry, magic, and world exploration.
 
-## Requirements
+---
 
-- **Python 3.8+**
+## 🔥 Key Features
 
-- **Git**
+* ✈️ **Airships & Aviation**: Build and fly physics-driven airships with **Create Aeronautics**, **Aeroworks**, **Aero Radars**, **Winds & Weather**, and **Create: Big Cannons**.
+* ⚙️ **Industry & Automation**: Technological progression with **Create**, **TFMG**, **Diesel Generators**, **Cybernetics**, and **CC: Tweaked**.
+* ⚔️ **Combat & Magic**: Dynamic combat with **Epic Fight** paired with **Iron's Spells & Spellbooks**.
+* 🌍 **World & Exploration**: Overhauled world generation with **Biomes O' Plenty**, **Tectonic**, **Incendium**, and **The Lost Cities**.
 
-- **Packwiz**
+---
 
-## Installation
+## 📦 Pack Variants
 
-1. **Install Python 3.8 or later**  
-   Download and install from the [Python website](https://www.python.org/).
+| Variant | Description |
+| :--- | :--- |
+| **`giga`** | Full client experience with complete visuals & custom menus |
+| **`nano`** | Lightweight client optimized for performance |
+| **`server`** | Core server build without client-side mods |
 
-2. **Install Git**  
-   Follow the instructions on the [Git website](https://git-scm.com/).
+---
 
-3. **Install Packwiz**  
-   See the instructions on the [Packwiz GitHub page](https://github.com/packwiz/packwiz) for installation details.
+## 🚀 Quick Start
 
-4. **Download PackFrameworker**  
-   Clone this repository or download the `packframeworker.py` script into your working directory. Make sure that any necessary folders (such as `beta`, `mod`, etc.) are also present.
+1. Download the latest `.mrpack` or `.zip` release.
+2. Import into **Prism Launcher** (or your launcher of choice).
+3. Allocate **6–8 GB RAM** and launch!
 
-## Usage
+---
 
-Run the script from the command line:
-
-```bash
-python PackFrameworkerScript.py
+<p align="center">Crafted with ❤️ by <b>Gamers</b></p>
