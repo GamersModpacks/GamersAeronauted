@@ -1,0 +1,13 @@
+name = "Pointblank: Jelly"
+filename = "pointblank-neoforge-1.21.1-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RghT3FYJ/versions/cDRwl41v/pointblank-neoforge-1.21.1-2.2.0.jar"
+hash-format = "sha512"
+hash = "9c4a307ebb8ccd7dc53ab9e7f09b1aeace01b1af05b5cb6661834804c52e10cb1effecbbf74b9daca448359923a3e705ee70e155195918079f3ccc9734581921"
+
+[update]
+[update.modrinth]
+mod-id = "RghT3FYJ"
+version = "cDRwl41v"
