@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7eaf8d033a44f0f05b45174992c6d5919e152b92e59fe8e20e59d8a20d582f21"
+hash = "f2b4a4937c5ea2a4a385698fad20921065bc067dfb5edbe7746547afd5739be6"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -480,11 +480,6 @@ metafile = true
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
 hash = "fb4c66b51003be5ee729d2ae4662ec048bee092347a75f694e905ed6dbec3304"
-metafile = true
-
-[[files]]
-file = "mods/tacz-npcs.pw.toml"
-hash = "20d1c010d04a038774600e3c3f2c0cc92eabbe9229feb49144f426992217194a"
 metafile = true
 
 [[files]]

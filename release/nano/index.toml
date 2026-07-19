@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7eaf8d033a44f0f05b45174992c6d5919e152b92e59fe8e20e59d8a20d582f21"
+hash = "f2b4a4937c5ea2a4a385698fad20921065bc067dfb5edbe7746547afd5739be6"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +78,7 @@ hash = "bef666879b328178f9c9fa5ab2d5caf62015f4bfe2e9c4cb6b516e94cfb6b0ef"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "a7a681089e9e5d01040a9ad81938459c7ac1deea6b7025f4951a6a4de4cc1683"
+hash = "0178942999e57f2d8b0269f3132edeabb0d0549d24a780e1479f98028eb2513e"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -727,11 +727,6 @@ metafile = true
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
 hash = "fb4c66b51003be5ee729d2ae4662ec048bee092347a75f694e905ed6dbec3304"
-metafile = true
-
-[[files]]
-file = "mods/tacz-npcs.pw.toml"
-hash = "20d1c010d04a038774600e3c3f2c0cc92eabbe9229feb49144f426992217194a"
 metafile = true
 
 [[files]]
