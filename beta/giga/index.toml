@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6e63351dea5daaec3ff8b27991d51815e44c55e1268bf17e88ea8258017b6064"
+hash = "4737f1a22a2e2739be488289c22d721d46aa5fba945fb7ac5dca7f82f7508ce1"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "bef666879b328178f9c9fa5ab2d5caf62015f4bfe2e9c4cb6b516e94cfb6b0ef"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "d074291cf71a1e9d43bd78bdb181c93264fd17dabc809dbaea5d6df72ed163f6"
+hash = "6825eaa2af0e7fab5038371a79c4dfb92d6b7747d8c5fcdd20e002880f891385"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "15cf7e8df90f1e5b6187c4b3a53485bb8186589a3ffd3bfc9ca9ca0c58a213ac"
+hash = "f4cd5353638ca536f2b629fd088ee800de7d6ebe95aa8f9df0bcd84842d89c04"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas.pw.toml"
-hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
+hash = "245e9f02f2a4dd4ff5f76b3f8a5b67dc322795de2a4e81e7a76b51744514acef"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "d0af80a62f96d2ac0cdb344757673103c63704bd6786c0f31818b16a4194341e"
+hash = "9e18a9967b7d08722f8b5979e713cff88fa6e757d02b52e4af14bd0da78f23d7"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+hash = "4d8f818ae6cdc2e7a6ba4283e53a153b0844d79e065a53fc97736c0747ba5f7d"
 metafile = true
 
 [[files]]
@@ -300,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "62b9fca367396bb95e8b0920bc270e8acb07424b0066bffe91aa29a954af2ead"
+metafile = true
+
+[[files]]
+file = "mods/corail-tompstone.pw.toml"
+hash = "0029220ff7a7a32e3cfe449e3eee42521f2e6ab5ad83fe8de8d88e3b41f3d6c8"
 metafile = true
 
 [[files]]
@@ -814,12 +819,12 @@ metafile = true
 
 [[files]]
 file = "mods/unionlib.pw.toml"
-hash = "381686059e3d448c157f3fc7e0ed2993b74ad2e1eea81a1c2a63baf158234982"
+hash = "5f8784555fc4bb58ca72a874ac684723443a64bf0e5ee015863407033385e1f5"
 metafile = true
 
 [[files]]
 file = "mods/waifucraft.pw.toml"
-hash = "e8bbe31e39a1ee568d8a91b8d20dbb1213e6ffff60161e2e6865eaa4cbf8a824"
+hash = "b560030f9df374f3c772f6953d508b4fce2016aeec657fca6b636e015abe44e3"
 metafile = true
 
 [[files]]
