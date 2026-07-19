@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "995969ddf792a61b56d674c0f1a5b9fae2cce8377d6d7ffad3d6e75bd72cf60d"
+hash = "b336ca54d616591c4283f32416cfaef66f945d42856050795dc5b07164b1a69c"
 
 [[files]]
 file = "config/create-client.toml"
@@ -74,11 +74,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "bef666879b328178f9c9fa5ab2d5caf62015f4bfe2e9c4cb6b516e94cfb6b0ef"
+hash = "cb6e60e41bb1c605054c4522279ffffcbb991cb4300987a09a8ae9f7897b883f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "f50c3f8da9d270ffb0eb78d51cf41ba534baaa6c7df6f9dbb8cda8ff12db9626"
+hash = "828ad04c9699d1ef47f97302ef24624a8784a9a8d3182e32d97db87ecbefccb0"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -392,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/createcybernetics.pw.toml"
 hash = "12adb61f36afb5e484ebbb03b0e71116621697b59d6ebde013d305c22eec69b0"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
