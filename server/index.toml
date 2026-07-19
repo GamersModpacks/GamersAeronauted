@@ -278,6 +278,10 @@ file = "mods/otyacraft-engine-renewed.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pb-jelly.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 metafile = true
 
@@ -315,6 +319,14 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tacz-1.21.1.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tacz-npcs.pw.toml"
 metafile = true
 
 [[files]]
