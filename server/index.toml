@@ -294,10 +294,6 @@ file = "mods/otyacraft-engine-renewed.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/physicsmod.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ping-wheel.pw.toml"
 metafile = true
 
