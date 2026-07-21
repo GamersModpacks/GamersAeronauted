@@ -1,12 +1,12 @@
 name = "GamersAeronauted"
 author = "Gamers"
-version = "2.2"
+version = "3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0fc3ccb11de99f41a9eaa9fdbef781197fd9c14b8a1241368fb1640b57a0cbdc"
+hash = "4eff18f8884187b5fe8653ab9a3ba35d10c66bbc76466888acb577c2cce921f9"
 
 [versions]
 minecraft = "1.21.1"

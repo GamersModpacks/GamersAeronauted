@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "04e6a1819ce0366746a96abe0d4c52da317173f8a2dea39f74e2c7c53fe146a5"
+hash = "23d3ad5c52c22a4a754ac80a576839f183abb8cae70498fd9e2fe8de644e1ba6"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +78,7 @@ hash = "cb6e60e41bb1c605054c4522279ffffcbb991cb4300987a09a8ae9f7897b883f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "01e983b068a06473bcd4019518664d7f564a228e843331f31476ef29be56e3cb"
+hash = "69dcf40e8a54449d64ee7c924e78f6875573f5b8456d566a236f28fe74847c0d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -587,11 +587,6 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
-metafile = true
-
-[[files]]
-file = "mods/millenaire.pw.toml"
-hash = "80b4b28ac31880c4cdf4cd1c030ef6db0688211a95faa87cb7928b537eb284e2"
 metafile = true
 
 [[files]]

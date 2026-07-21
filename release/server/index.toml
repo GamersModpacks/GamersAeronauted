@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "04e6a1819ce0366746a96abe0d4c52da317173f8a2dea39f74e2c7c53fe146a5"
+hash = "23d3ad5c52c22a4a754ac80a576839f183abb8cae70498fd9e2fe8de644e1ba6"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -360,11 +360,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "e06a9a886181277591baeb9e82b484bd6204fe3aec0ffc8781bb05bb11b4d1a9"
-metafile = true
-
-[[files]]
-file = "mods/millenaire.pw.toml"
-hash = "80b4b28ac31880c4cdf4cd1c030ef6db0688211a95faa87cb7928b537eb284e2"
 metafile = true
 
 [[files]]
