@@ -1,8 +1,0 @@
-name = "millenaire"
-filename = "9.0.0-beta.1~millenaire-9.0.0-beta.1.jar"
-side = "both"
-
-[download]
-url = "https://www.millenaire.org/api/downloads/9.0.0-beta.1~millenaire-9.0.0-beta.1.jar"
-hash-format = "sha256"
-hash = "ee6ba0e1d5ab4845e69654763846a5821e436ccd1ff58e7852d731a8dc9f62ef"

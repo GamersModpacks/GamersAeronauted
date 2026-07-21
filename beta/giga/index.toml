@@ -22,7 +22,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "12bde4cfcb3f311aabbff8d63ef442bafec08a34f78c785cf3a1c1100a34c79b"
+hash = "647af8913a404ae8370c2de219fd71f82413b3a513f3e19595c4f77ad5534945"
 
 [[files]]
 file = "config/create-client.toml"
@@ -82,7 +82,7 @@ hash = "cb6e60e41bb1c605054c4522279ffffcbb991cb4300987a09a8ae9f7897b883f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "e2592a57e20ba3c43e21ddebe3f3875f52e97d241bc5153163bcd820401e6949"
+hash = "d8599858fca0eb519c63ccf37e903e11f264efe63898f76439aecc4abf4ef67c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -635,11 +635,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "27cb5eae7650e30b97713e62ad9b8cb9eeb7f82444c76509a1dfa6c06f19d1e5"
-metafile = true
-
-[[files]]
-file = "mods/millenaire.pw.toml"
-hash = "80b4b28ac31880c4cdf4cd1c030ef6db0688211a95faa87cb7928b537eb284e2"
 metafile = true
 
 [[files]]
