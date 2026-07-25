@@ -10,10 +10,6 @@ file = "config/spore-startup.toml"
 file = "filesToRemove.txt"
 
 [[files]]
-file = "mods/alltheleaks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/antique-atlas.pw.toml"
 metafile = true
 
@@ -63,10 +59,6 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/connectivity.pw.toml"
 metafile = true
 
 [[files]]
@@ -159,10 +151,6 @@ metafile = true
 
 [[files]]
 file = "mods/createcybernetics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
 metafile = true
 
 [[files]]

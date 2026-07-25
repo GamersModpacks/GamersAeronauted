@@ -4,9 +4,5 @@ hash-format = "sha256"
 file = "config/DistantHorizons.toml"
 
 [[files]]
-file = "mods/catalogue.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/colorwheel.pw.toml"
 metafile = true
