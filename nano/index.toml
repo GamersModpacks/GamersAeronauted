@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-
-[[files]]
 file = "config/create-client.toml"
 
 [[files]]
