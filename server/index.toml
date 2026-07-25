@@ -10,6 +10,10 @@ file = "config/spore-startup.toml"
 file = "filesToRemove.txt"
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas.pw.toml"
 metafile = true
 
@@ -62,6 +66,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 metafile = true
 
@@ -75,6 +83,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-aero-radars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
 metafile = true
 
 [[files]]
@@ -310,7 +322,15 @@ file = "mods/sable.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sablecompat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/simulated-addition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
 metafile = true
 
 [[files]]
