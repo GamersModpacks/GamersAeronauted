@@ -14,10 +14,6 @@ file = "mods/aero_cam_sync.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -83,10 +79,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-aero-radars.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-toolgun.pw.toml"
 metafile = true
 
 [[files]]
@@ -363,6 +355,14 @@ metafile = true
 
 [[files]]
 file = "mods/weeping-angels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
