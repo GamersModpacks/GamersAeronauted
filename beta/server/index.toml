@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3a9198578e7ab3823e3a0d3314bf8216fe022081a5d961ca2ea0a724a545b93c"
+hash = "c04ccc658b2b1fa196659af6664975045f06d217fc8a0cd884d1fecd011e7f52"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -65,11 +65,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
-metafile = true
-
-[[files]]
-file = "mods/carryon-aeronautics-compat.pw.toml"
-hash = "5dd4552f1e29c6db54ea43a7c56e298de7f8e467bd5a61a211f9c3362b5528b2"
 metafile = true
 
 [[files]]
