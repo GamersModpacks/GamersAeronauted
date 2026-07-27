@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3fd57e01834b47a67e5c94f8f31e4f81037689a90a529eaccd87e08162b96f89"
+hash = "14b0bfb76a626e8c476a08f9e4f71c1bbbf4a14b7b7a310f39a958e99a705d34"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +78,7 @@ hash = "cb6e60e41bb1c605054c4522279ffffcbb991cb4300987a09a8ae9f7897b883f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "827742efa5af35ab66b25eb415816fd90fc31087a3162ebcfcff798d03dae838"
+hash = "e8424c89cb6d35c3b58d274be126470879235428ba62e3d76c99a8f902e38ecf"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -307,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/create-aero-radars.pw.toml"
 hash = "4abc8f3793ea18a02038b7587a09949480912f7231c2f696292dcbff78309ca9"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-toolgun.pw.toml"
-hash = "bdd4a0cccfcd1268f0096748aa22c133d4b6f80960e3180baf12b3f5765cd7b4"
 metafile = true
 
 [[files]]

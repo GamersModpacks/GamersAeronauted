@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3fd57e01834b47a67e5c94f8f31e4f81037689a90a529eaccd87e08162b96f89"
+hash = "14b0bfb76a626e8c476a08f9e4f71c1bbbf4a14b7b7a310f39a958e99a705d34"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -135,11 +135,6 @@ metafile = true
 [[files]]
 file = "mods/create-aero-radars.pw.toml"
 hash = "4abc8f3793ea18a02038b7587a09949480912f7231c2f696292dcbff78309ca9"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-toolgun.pw.toml"
-hash = "bdd4a0cccfcd1268f0096748aa22c133d4b6f80960e3180baf12b3f5765cd7b4"
 metafile = true
 
 [[files]]
