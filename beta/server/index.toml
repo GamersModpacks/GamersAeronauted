@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "14b0bfb76a626e8c476a08f9e4f71c1bbbf4a14b7b7a310f39a958e99a705d34"
+hash = "3a9198578e7ab3823e3a0d3314bf8216fe022081a5d961ca2ea0a724a545b93c"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -25,11 +25,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas.pw.toml"
-hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
 metafile = true
 
 [[files]]
@@ -379,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-helper.pw.toml"
-hash = "481c9890a275dd80af0193faa3ac224c0d5f6712e333b5a36aa17a8a8f8c8381"
+hash = "27b6ad464813ca616b0bbe24943dd20fb77624b80d20ce2d016d0c0736bf9ab0"
 metafile = true
 
 [[files]]
@@ -535,6 +530,16 @@ metafile = true
 [[files]]
 file = "mods/weeping-angels.pw.toml"
 hash = "ad47d4b9aefebb84201e73b0af412dd6c952fdf8fe963ea90d649f7e9c518b8f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]

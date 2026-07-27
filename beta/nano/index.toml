@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "14b0bfb76a626e8c476a08f9e4f71c1bbbf4a14b7b7a310f39a958e99a705d34"
+hash = "3a9198578e7ab3823e3a0d3314bf8216fe022081a5d961ca2ea0a724a545b93c"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +78,7 @@ hash = "cb6e60e41bb1c605054c4522279ffffcbb991cb4300987a09a8ae9f7897b883f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "e8424c89cb6d35c3b58d274be126470879235428ba62e3d76c99a8f902e38ecf"
+hash = "768a922ed9d3c6e7fb8c15f154c232b39ef4dc57a8b18df59ed02a761003c7b1"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -175,6 +175,18 @@ file = "config/voicechat/voicechat-client.properties"
 hash = "a04a536ab86b840d9fca354674e1898857e8387f6d7479f9037fd566b6d6779c"
 
 [[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "82b008e200d962d65caa845b3c9c4b9319adffac66a6568145f58f3a0a7ab32f"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "33bcf15d5706daf090323b03c16e357c44bdb8e5f29a2f65ef839316b6e94c5f"
+
+[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "e8b4080963d59ce2e54a3c9771f0bf7f00c1fcd7d04b963f705b485eea47de03"
 metafile = true
@@ -187,11 +199,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas.pw.toml"
-hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
 metafile = true
 
 [[files]]
@@ -606,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-helper.pw.toml"
-hash = "481c9890a275dd80af0193faa3ac224c0d5f6712e333b5a36aa17a8a8f8c8381"
+hash = "27b6ad464813ca616b0bbe24943dd20fb77624b80d20ce2d016d0c0736bf9ab0"
 metafile = true
 
 [[files]]
@@ -787,6 +794,16 @@ metafile = true
 [[files]]
 file = "mods/weeping-angels.pw.toml"
 hash = "ad47d4b9aefebb84201e73b0af412dd6c952fdf8fe963ea90d649f7e9c518b8f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]
