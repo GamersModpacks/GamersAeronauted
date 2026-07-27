@@ -1,8 +1,13 @@
-name = "cupboard"
+name = "Cupboard"
 filename = "cupboard-1.21.1-3.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.denchenko.com/Aeronauted/mods/cupboard-1.21.1-3.8.jar"
-hash-format = "sha256"
-hash = "722847521c1f9bae079bd3ec1a70b187c3186e71247ddf1182c0ea498cdec067"
+hash-format = "sha1"
+hash = "39df849e5a338dfe9ccb7632b1849c20357e597b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8260590
+project-id = 326652

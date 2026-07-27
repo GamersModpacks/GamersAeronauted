@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "647af8913a404ae8370c2de219fd71f82413b3a513f3e19595c4f77ad5534945"
+hash = "606116454563834b4683f469496fec23bcae251c3158e347f15151b025dc4bad"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -13,8 +13,13 @@ file = "config/spore-startup.toml"
 hash = "d573e54c4d3512421ee7ee824b0921770dfea1f8235c590289b07ab00d70a05b"
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "e8b4080963d59ce2e54a3c9771f0bf7f00c1fcd7d04b963f705b485eea47de03"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "f4cd5353638ca536f2b629fd088ee800de7d6ebe95aa8f9df0bcd84842d89c04"
+hash = "15cf7e8df90f1e5b6187c4b3a53485bb8186589a3ffd3bfc9ca9ca0c58a213ac"
 metafile = true
 
 [[files]]
@@ -24,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas.pw.toml"
-hash = "245e9f02f2a4dd4ff5f76b3f8a5b67dc322795de2a4e81e7a76b51744514acef"
+hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
 metafile = true
 
 [[files]]
@@ -34,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -89,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/cgs.pw.toml"
-hash = "fc397894e8e0371085c333389738862745d8872d6e550a82c7a1d15600575668"
+hash = "dae8f38fa94bb1ce2108bf60fcce95eed3b5e9a3deb6759093a217e9b192f5ac"
 metafile = true
 
 [[files]]
@@ -104,7 +109,12 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "4d8f818ae6cdc2e7a6ba4283e53a153b0844d79e065a53fc97736c0747ba5f7d"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
 
 [[files]]
@@ -114,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "dbc9eb126d2118694464005ab12a0c2c496f309b8ece5cb1c29ad40da948214a"
+hash = "62b9fca367396bb95e8b0920bc270e8acb07424b0066bffe91aa29a954af2ead"
 metafile = true
 
 [[files]]
@@ -125,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/create-aero-radars.pw.toml"
 hash = "4abc8f3793ea18a02038b7587a09949480912f7231c2f696292dcbff78309ca9"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
+hash = "bdd4a0cccfcd1268f0096748aa22c133d4b6f80960e3180baf12b3f5765cd7b4"
 metafile = true
 
 [[files]]
@@ -184,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
+hash = "f82cdd570cb4f6bd9b87a6a30c5e5ecc23125dfcecc715d4950a17301de8c58a"
 metafile = true
 
 [[files]]
@@ -224,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "b266f270106dde60b5bbe030db8199f9f0d4f4b83b671d64c7cc495e2a28b667"
+hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
 metafile = true
 
 [[files]]
@@ -324,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "636d90c851ff6f3d8668140cec978a05b9078d1b8a0b85f300bb795ed0a55572"
+hash = "06a7dd41efafdd02cd3d4b3eab59a1b8261d25c1ddd1d3d0af77418a5614b971"
 metafile = true
 
 [[files]]
@@ -374,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
+hash = "253eb0796df9a8cd0214de3a6c32b7f6dc71fff5b861aa11086f275419ab046e"
 metafile = true
 
 [[files]]
@@ -399,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntgl.pw.toml"
-hash = "c39655f8b686f5d1c35e18296c476238b6802cec16b9e2c3e3de4b89b3eb50fc"
+hash = "942cfe73dab167575181675bbc75b68f1484ea68df831d412df588d05d01fbcf"
 metafile = true
 
 [[files]]
@@ -458,6 +473,11 @@ hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
+file = "mods/sablecompat.pw.toml"
+hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "369617869e9c8224e9c5e875d70677c491bc4282919b32705d096d253e2ffecd"
 metafile = true
@@ -473,18 +493,23 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/ssrd.pw.toml"
+hash = "8618456848113ee95a9996a7bd56495db4407c7b43bbcf88946a6920813c7b3f"
+metafile = true
+
+[[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "ea9799e9f1642152ce03ee354cbe1cc007dba10e94ad5ff1312afb6b0d52ce0e"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "de2fbb0fdbc03fa1cba3ab1b6464f711abd5993c63d5322f562812540247e2b7"
+hash = "805c7b44181e5826bdbf4fcc21b14d93cd8ff656747356d325a5cb81a8fa3de5"
 metafile = true
 
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
-hash = "fb4c66b51003be5ee729d2ae4662ec048bee092347a75f694e905ed6dbec3304"
+hash = "04e22ec3e0169be909799a3beb8c12530c14888b8e4b291a7601ec1cbb59174e"
 metafile = true
 
 [[files]]
@@ -504,12 +529,12 @@ metafile = true
 
 [[files]]
 file = "mods/unionlib.pw.toml"
-hash = "5f8784555fc4bb58ca72a874ac684723443a64bf0e5ee015863407033385e1f5"
+hash = "381686059e3d448c157f3fc7e0ed2993b74ad2e1eea81a1c2a63baf158234982"
 metafile = true
 
 [[files]]
 file = "mods/waifucraft.pw.toml"
-hash = "b560030f9df374f3c772f6953d508b4fce2016aeec657fca6b636e015abe44e3"
+hash = "e8bbe31e39a1ee568d8a91b8d20dbb1213e6ffff60161e2e6865eaa4cbf8a824"
 metafile = true
 
 [[files]]
