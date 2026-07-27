@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4e5ebc70a79bd4e5e9a8316726526f41aeb33d0341f5a33066b80455c163af7e"
+hash = "315e1b4500e87daab2acb62a3e411c60268b0faf122faaadc12d228301188eb4"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +78,7 @@ hash = "cb6e60e41bb1c605054c4522279ffffcbb991cb4300987a09a8ae9f7897b883f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "ec26c5100a3ffd31165918975530bc059b7d3702990bc08ef5cca9105f2a0d43"
+hash = "e4f9d197ba4aff2b49369efbbe4b6eb7b626ae192f857383995ea22d18bdbfa9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -249,11 +249,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
-metafile = true
-
-[[files]]
-file = "mods/carryon-aeronautics-compat.pw.toml"
-hash = "5dd4552f1e29c6db54ea43a7c56e298de7f8e467bd5a61a211f9c3362b5528b2"
 metafile = true
 
 [[files]]
