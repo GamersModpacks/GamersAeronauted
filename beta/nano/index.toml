@@ -18,7 +18,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "606116454563834b4683f469496fec23bcae251c3158e347f15151b025dc4bad"
+hash = "3fd57e01834b47a67e5c94f8f31e4f81037689a90a529eaccd87e08162b96f89"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +78,7 @@ hash = "cb6e60e41bb1c605054c4522279ffffcbb991cb4300987a09a8ae9f7897b883f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "0677890fab06d5f820d8e8457040b93e7b35c389bc085379ea75440d72a8e647"
+hash = "827742efa5af35ab66b25eb415816fd90fc31087a3162ebcfcff798d03dae838"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/azimuth-api.pw.toml"
-hash = "dc4fba2ed89550843d0ce2a6cd1b13986ff2bf596b9f5b828ef55ebb538bab10"
+hash = "4f0e4ceed8848345d6976fe828df3bdcadf67587f0a38ceb7fbe5a0abcd32c77"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "4b200d7009a78ce1d782d0b20585fcde46e6791bf23edf22a799a60729e924fd"
+hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/iam-music-player-renewed.pw.toml"
-hash = "5fe66f7ff69a7ad2c638d296e566700a6742b6be6c6cd7f402b7ffb8fc0c840b"
+hash = "17f9457b09a0b7f2f4aa1ebfd129e81f79900f2f2680f45221cbd0395af3be32"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "06a7dd41efafdd02cd3d4b3eab59a1b8261d25c1ddd1d3d0af77418a5614b971"
+hash = "6533cfb3a25657622ed3a38370ede0c8186e27df2769fac8bf9021e8c33ad01a"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "253eb0796df9a8cd0214de3a6c32b7f6dc71fff5b861aa11086f275419ab046e"
+hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "8618456848113ee95a9996a7bd56495db4407c7b43bbcf88946a6920813c7b3f"
+hash = "c8bd23ccde1de369034886cd5641d288714072e2935fd6d311f2902af34880ad"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
-hash = "04e22ec3e0169be909799a3beb8c12530c14888b8e4b291a7601ec1cbb59174e"
+hash = "3e0613265802e7368ecb82e342a1cd9461351b3c19572ce0ffb639c1a248a37f"
 metafile = true
 
 [[files]]
