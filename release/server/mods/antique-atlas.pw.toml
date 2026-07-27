@@ -1,8 +1,0 @@
-name = "antique-atlas"
-filename = "Antique Atlas-1.21.1-8.0.1-NeoForge.jar"
-side = "both"
-
-[download]
-url = "https://cdn.denchenko.com/Aeronauted/mods/Antique%20Atlas-1.21.1-8.0.1-NeoForge.jar"
-hash-format = "sha256"
-hash = "b5b406b7b48fbdd68e66160a24145fc399f21e39f9f391120bb172e8180e45fc"
